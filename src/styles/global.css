@@ -1,4 +1,13 @@
+html {
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ background-color: #F3DFA2;
+ text-color: #272727;
+}
+
 .header-image {
-  display: flex;
   width: 100%;
+  position: center;
+  max-height: 800px;
 }

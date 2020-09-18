@@ -16,14 +16,11 @@
         {"category": "F", "amount": 53},
         {"category": "G", "amount": 19},
         {"category": "H", "amount": 87},
-        {"category": "I", "amount": 54},
-        {"category": "J", "amount": 68},
-        {"category": "K", "amount": 48},
-        {"category": "L", "amount": 65},
-        {"category": "M", "amount": 60},
-        {"category": "N", "amount": 68},
-        {"category": "O", "amount": 55},
-        {"category": "P", "amount": 31}
+        {"category": "I", "amount": 43},
+        {"category": "J", "amount": 91},
+        {"category": "K", "amount": 92},
+        {"category": "L", "amount": 72},
+        {"category": "M", "amount": 48}
       ]
     }
   ],

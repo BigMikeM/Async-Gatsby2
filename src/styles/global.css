@@ -7,7 +7,7 @@ html {
 }
 
 .header-image {
-  width: 100%;
   position: center;
-  max-height: 800px;
+  max-width: 100%;
+  max-height: 600px;
 }

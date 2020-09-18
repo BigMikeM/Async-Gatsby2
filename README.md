@@ -12,7 +12,8 @@ Thanks for taking a look! Any suggestions would be greatly appreciated.
 - [d3js](https://d3js.org/) (not currently implemented in page)
 - Data retrieval from public API's (specifically swapi.dev and stapi.co)
 - CSS in JS - Planned, not finished.
+- [GraphQL](https://graphql.org/) - Not yet heavily implemented, yet integrated in to Gatsby.
 
 ### Quick demo
 
-[YouTube video]()
+[YouTube video](https://youtu.be/Lw6wx-bG3VI)
